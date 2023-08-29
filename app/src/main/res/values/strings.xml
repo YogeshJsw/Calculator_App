@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="_2x1_17_hint">2X1.17</string>
+    <string name="_2_34_result_hint">2.34</string>
+    <string name="equal">=</string>
+    <string name="sub">-</string>
+    <string name="multiply">×</string>
+    <string name="addition">+</string>
+    <string name="division">÷</string>
+    <string name="_3">3</string>
+    <string name="pointstr">.</string>
+    <string name="_6">6</string>
+    <string name="modulo">%</string>
+    <string name="_9">9</string>
+    <string name="_0">      0       </string>
+    <string name="_2">2</string>
+    <string name="_5">5</string>
+    <string name="_8">8</string>
+    <string name="x">X</string>
+    <string name="_1">1</string>
+    <string name="_7">7</string>
+    <string name="_4">4</string>
+    <string name="ac">AC</string>
+</resources>
